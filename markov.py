@@ -3,7 +3,7 @@ import pandas as pd
 
 np.set_printoptions(suppress=True)
 
-DEBUG = True
+DEBUG = False
 SEED = 1234
 RANDOM_LEVEL = 0.5
 
